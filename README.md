@@ -1,23 +1,23 @@
-**a. Project Title**<br>
+## **a. Project Title**<br>
 Stroke Data Analysis and Visualization
 
-**b. Description**<br>
+## **b. Description**<br>
 WIP
 
-**c. Tools**<br>
+## **c. Tools**<br>
 WIP
 
-**d. Dataset**<br>
+## **d. Dataset**<br>
 WIP
 
-**e. Project Objectives**<br>
+## **e. Project Objectives**<br>
 WIP
 
-**f. Visualizations**<br>
+## **f. Visualizations**<br>
 WIP
 
-**h. How to Use**<br>
+## **h. How to Use**<br>
 WIP
 
-**i. Acknowledgements**<br>
+## **i. Acknowledgements**<br>
 WIP
