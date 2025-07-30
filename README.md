@@ -1,23 +1,23 @@
-**a. Project Titie**
+**a. Project Title**<br>
 Stroke Data Analysis and Visualization
 
-**b. Description**
+**b. Description**<br>
 WIP
 
-**c. Tools**
+**c. Tools**<br>
 WIP
 
-**d. Dataset**
+**d. Dataset**<br>
 WIP
 
-**e. Project Objectives**
+**e. Project Objectives**<br>
 WIP
 
-**f. Visualizations**
+**f. Visualizations**<br>
 WIP
 
-**h. How to Use**
+**h. How to Use**<br>
 WIP
 
-**i. Acknowledgements**
+**i. Acknowledgements**<br>
 WIP
