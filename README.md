@@ -27,8 +27,8 @@ The dataset, sourced from Kaggle, contains information on demographics and healt
 ## **h. How to Use**<br>
 <ol>
   <li>View the cleaned dataset under the /data folder.</li>
-  <li>Review the visualizations under /visuals.</li>
-  <li>View the report featuring data analysis and interpretations in /docs (work in progress).</li>
+  <li>Review the visualizations and workbook under /visuals.</li>
+  <li>View the report featuring data analysis and interpretations in /docs.</li>
 </ol>
 
 ## **i. Acknowledgements**<br>
